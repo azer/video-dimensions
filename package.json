@@ -1,0 +1,25 @@
+{
+  "name": "video-dimensions",
+  "version": "0.0.0",
+  "description": "Returns the dimensions of given video",
+  "main": "index.js",
+  "scripts": {
+    "test": "fox -b -t 5000"
+  },
+  "dependencies": {
+    "on-off": "*"
+  },
+  "devDependencies": {
+    "fox": "*"
+  },
+  "keywords": [
+    "video",
+    "html5"
+  ],
+  "repository": {
+    "url": "git@github.com:azer\/video-dimensions.git",
+    "type": "git"
+  },
+  "author": "Azer Ko\u00e7ulu <azer@kodfabrik.com>",
+  "license": "BSD"
+}
